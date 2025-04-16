@@ -2,7 +2,7 @@
   background-color: #fcf5e5;
   min-height: 100vh;
   box-sizing: border-box;
-  margin: 0 autp;
+  margin: 0 auto;
   font-family: Poppins, Arial, sans-serif;
   font-weight: 500;
   width: 100%;
@@ -12,13 +12,17 @@
 .page__section {
   max-width: 1280px;
   margin: 0 auto;
+  padding: 0 80px;
+  box-sizing: border-box;
 }
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
 @media screen and (max-width: 627px) {
-  .page {
-    width: 100%;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: #fcf5e5;
-    margin: 0 auto;
+  .page__section {
+    padding: 0 16px;
   }
 }

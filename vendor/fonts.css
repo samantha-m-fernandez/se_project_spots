@@ -11,9 +11,3 @@
   font-weight: 500; /* Bold */
   src: url("./fonts/Poppins-Medium.ttf") format("truetype");
 }
-
-@font-face {
-  font-family: "Poppins";
-  font-style: italic;
-  font-weight: 400; /* Italic */
-  src: url("/fonts/Poppins-Italic.ttf") format("truetype");
