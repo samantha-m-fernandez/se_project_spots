@@ -52,9 +52,6 @@
     min-height: 318px;
     margin: 0 auto;
   }
-  .card__image {
-    height: 288px;
-  }
   .card__title {
     max-width: 223.2px;
     font-size: 16px;
