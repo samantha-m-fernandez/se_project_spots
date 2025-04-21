@@ -54,10 +54,6 @@
   }
   .card__image {
     height: 288px;
-    width: 100%;
-    margin-bottom: 12px;
-    object-fit: cover;
-    border-radius: 8px;
   }
   .card__title {
     max-width: 223.2px;

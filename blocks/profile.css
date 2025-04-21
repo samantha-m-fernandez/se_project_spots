@@ -16,7 +16,6 @@
 .profile__column {
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
   min-height: 190px;
 }
 
@@ -27,7 +26,7 @@
   line-height: 1;
   color: #212121;
   font-size: 32px;
-  max-width: 323px;
+  max-width: 420px;
   text-overflow: ellipsis;
   overflow: hidden;
   display: -webkit-box;
