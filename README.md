@@ -20,19 +20,16 @@
 
 ## Deployment
 
-You can view the live project here:  
-<--Add your github page here\_[Spots Project on GitHub Pages]()-->
+You can view the live project here:
+
+- [Live Project on GitHub Pages](https://samantha-m-fernandez.github.io/se_project_spots/)
 
 ## Screenshots
 
 ### Desktop View
 
-![Desktop View]()
-<--Add desktop page\_[Spots Project on GitHub Pages]()-->
+![Desktop View](./images/desktop-view.png)
 
 ### Mobile View
 
-![Mobile View]()
-<--Add your mobile page here\_[Spots Project on GitHub Pages]()-->
-
----
+![Mobile View](./images/mobile-view.png)

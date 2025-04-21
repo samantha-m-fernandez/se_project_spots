@@ -49,7 +49,7 @@
 @media screen and (max-width: 627px) {
   .card {
     max-width: 288px;
-    min-height: 318px;
+    height: 318px;
     margin: 0 auto;
   }
   .card__title {
