@@ -1,4 +1,4 @@
-# Project 3: Spots
+# Project 4 Spots
 
 ## Project Overview
 
@@ -17,6 +17,7 @@ This project is an adaptive webpage which can be viewed seamlessly across multip
 - HTML5: Semantic and accessible structure
 - CSS3: Grid, Flexbox, and media queries for responsive layouts
 - GitHub Pages: For deploying the project
+- JavaScript: DOM manipulation, event listeners, form handling
 
 ---
 
