@@ -24,6 +24,12 @@ const initialCards = [
     link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/6-photo-by-moritz-feldmann-from-pexels.jpg",
   },
 ];
+
+initialCards.forEach(function (card) {
+  console.log("Name:", card.name);
+  console.log("Link:", card.link);
+});
+
 document.addEventListener("DOMContentLoaded", () => {
   const profileNameDisplay = document.querySelector(".profile__name");
   const profileDescriptionDisplay = document.querySelector(
@@ -89,8 +95,4 @@ document.addEventListener("DOMContentLoaded", () => {
     closeModal(newPostModal);
     newPostForm.reset();
   });
-});
-initialCards.forEach(function (card) {
-  console.log("Name:", card.name);
-  console.log("Link:", card.link);
 });
